@@ -1,6 +1,6 @@
 # FourTwenty • The Firm
 
->>knowledge & governance layer — glossary, metrics, and operating rules for the suite.
+>>Business operations, offers, and pricing.
 
 ## What’s inside
 - Purpose: <1–2 lines on the problem it solves>
