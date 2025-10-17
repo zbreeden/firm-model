@@ -1,0 +1,26 @@
+{
+  "id": "20251017T211420Z-weekly_update",
+  "ts_utc": "2025-10-17T21:14:20Z",
+  "module": "Firm Model",
+  "repo": "firm-model",
+  "title": "Opportunity Log",
+  "summary": "The user opportunity log has been placed in The Firm framed around user promotion (e.g. job placement)",
+  "rating": "high",
+  "origin": {
+    "name": "Firm Model",
+    "url": "https://zbreeden.github.io/firm-model/",
+    "emoji": "🏢"
+  },
+  "status": "sprout",
+  "links": {
+    "readme": "https://github.com/zbreeden/firm-model#readme",
+    "page": "https://zbreeden.github.io/firm-model/"
+  },
+  "payload": {
+    "module_key": "firm_model",
+    "broadcast_key": "weekly_update",
+    "tags": [
+      "log"
+    ]
+  }
+}
