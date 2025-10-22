@@ -1,0 +1,144 @@
+[
+  {
+    "id": "20251022T062125Z-weekly_update",
+    "ts_utc": "2025-10-22T06:21:25Z",
+    "module": "Firm Model",
+    "repo": "firm-model",
+    "title": "UI Improvements",
+    "summary": "The Firm takes notice to brighter signals from The Coach and improved its UI.",
+    "rating": "critical",
+    "origin": {
+      "name": "Firm Model",
+      "url": "https://zbreeden.github.io/firm-model/",
+      "emoji": "🏢"
+    },
+    "status": "sprout",
+    "links": {
+      "readme": "https://github.com/zbreeden/firm-model#readme",
+      "page": "https://zbreeden.github.io/firm-model/"
+    },
+    "payload": {
+      "orbit": "🧩",
+      "status": "🌿",
+      "module_key": "firm_model",
+      "notes": "skills - HTML, CSS, JavaScript, UI/UX, Frontend Development",
+      "broadcast_key": "weekly_update",
+      "tags": [
+        "UI"
+      ]
+    }
+  },
+  {
+    "id": "20251017T211420Z-weekly_update",
+    "ts_utc": "2025-10-17T21:14:20Z",
+    "module": "Firm Model",
+    "repo": "firm-model",
+    "title": "Opportunity Log",
+    "summary": "The user opportunity log has been placed in The Firm framed around user promotion (e.g. job placement)",
+    "rating": "high",
+    "origin": {
+      "name": "Firm Model",
+      "url": "https://zbreeden.github.io/firm-model/",
+      "emoji": "🏢"
+    },
+    "status": "sprout",
+    "links": {
+      "readme": "https://github.com/zbreeden/firm-model#readme",
+      "page": "https://zbreeden.github.io/firm-model/"
+    },
+    "payload": {
+      "module_key": "firm_model",
+      "broadcast_key": "weekly_update",
+      "tags": [
+        "log"
+      ]
+    }
+  },
+  {
+    "id": "20251017T211300Z-status_change",
+    "ts_utc": "2025-10-17T21:13:00Z",
+    "module": "Firm Model",
+    "repo": "firm-model",
+    "title": "Star status change",
+    "summary": "The Firm has sprouted due to wake up calls from The Barycenter.",
+    "rating": "critical",
+    "origin": {
+      "name": "Firm Model",
+      "url": "https://zbreeden.github.io/firm-model/",
+      "emoji": "🏢"
+    },
+    "status": "sprout",
+    "links": {
+      "readme": "https://github.com/zbreeden/firm-model#readme",
+      "page": "https://zbreeden.github.io/firm-model/"
+    },
+    "payload": {
+      "module_key": "firm_model",
+      "broadcast_key": "status_change",
+      "tags": [
+        "wake"
+      ]
+    }
+  },
+  {
+    "id": "20250925T193811Z-check_in",
+    "ts_utc": "2025-09-25T19:38:11Z",
+    "module": "Firm Model",
+    "repo": "firm-model",
+    "title": "Check In",
+    "summary": "The Firm is hoping to start governing soon!!!",
+    "rating": "normal",
+    "origin": {
+      "name": "Firm Model",
+      "url": "https://zbreeden.github.io/firm-model/",
+      "emoji": "🏢"
+    },
+    "status": "seed",
+    "links": {
+      "readme": "https://github.com/zbreeden/firm-model#readme",
+      "page": "https://zbreeden.github.io/firm-model/"
+    },
+    "payload": {
+      "module_key": "firm_model",
+      "broadcast_key": "check_in",
+      "tags": [
+        "check_in"
+      ]
+    }
+  },
+  {
+    "id": "20250923T022920Z-firm-model-genesis",
+    "ts_utc": "2025-09-23T02:29:20Z",
+    "date": "2025-09-23",
+    "module": "Firm Model",
+    "repo": "firm-model",
+    "title": "New constellation star initialized",
+    "summary": "Generated module scaffold with seedset distribution and basic broadcast structure.",
+    "tags": [
+      "genesis",
+      "scaffold",
+      "module",
+      "ancillary-operations"
+    ],
+    "rating": "normal",
+    "origin": {
+      "name": "Firm Model",
+      "url": "https://zbreeden.github.io/firm-model/",
+      "emoji": "🏢"
+    },
+    "links": {
+      "readme": "https://github.com/zbreeden/firm-model#readme",
+      "page": "https://zbreeden.github.io/firm-model/",
+      "data": "https://github.com/zbreeden/firm-model/tree/main/signals",
+      "runbook": "https://github.com/zbreeden/firm-model/blob/main/RUNBOOK.md"
+    },
+    "payload": {
+      "orbit": "ancillary-operations",
+      "status": "seed",
+      "module_key": "firm_model",
+      "notes": "Initial scaffold created by new-module.sh script. Ready for customization and development."
+    },
+    "checksum": "",
+    "version": "1.0.0"
+  }
+]

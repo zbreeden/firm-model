@@ -1,0 +1,49 @@
+{
+  "generated_at": "2025-10-22T00:30:00Z",
+  "trainings": {
+    "data_analyst_role": {
+      "id": "data_analyst_role",
+      "title": "Data Analyst Role Placement",
+      "steps_total": 20,
+      "steps_completed": [],
+      "percent_complete": 13.3333,
+      "last_activity": "2025-10-20",
+      "notes": "Job application funnel; steps represent individual job applications.",
+      "steps": [
+        {"id":"ipsos_market_research_manager","title":"Ipsos - Market Research Manager","count":0,"status":"cooled","last_activity":"2025-10-08"},
+        {"id":"cdk_global_data_analyst","title":"CDK Global - Data Analyst","count":1,"status":"completed","last_activity":"2025-10-09"},
+        {"id":"advantage_solutions_senior_category_analyst","title":"Advantage Solutions - Senior Category Analyst","count":0,"status":"cooled","last_activity":"2025-10-09"},
+        {"id":"jurgensen_companies_data_analyst","title":"Jurgensen Companies - Data Analyst","count":1,"status":"completed","last_activity":"2025-10-12"},
+        {"id":"peterson_technology_partners_senior_project_manager","title":"Peterson Technology Partners - Senior Project Manager","count":0,"status":"cooled","last_activity":"2025-10-09"},
+        {"id":"genpact_manufacturing_project_analyst","title":"Genpact - Manufacturing Project Analyst","count":0,"status":"cooled","last_activity":"2025-10-09"},
+        {"id":"mostly_human_llc_media_analyst","title":"Mostly Human LLC - Media Analyst","count":0,"status":"cooled","last_activity":"2025-10-09"},
+        {"id":"tql_process_improvement_data_analyst","title":"TQL - Process Improvement Data Analyst","count":1,"status":"completed","last_activity":"2025-10-10"},
+        {"id":"cbts_data_analyst","title":"CBTS - Data Analyst","count":0,"status":"cooled","last_activity":"2025-10-10"},
+        {"id":"western_southern_financial_group_business_intelligence_analyst_i","title":"Western & Southern Financial Group - Business Intelligence Analyst I","count":0,"status":"cooled","last_activity":"2025-10-10"},
+        {"id":"vaco_by_highspring_excel_data_analyst","title":"Vaco by Highspring - Excel Data Analyst","count":0,"status":"cooled","last_activity":"2025-10-10"},
+        {"id":"agility_partners_data_analyst","title":"Agility Partners - Data Analyst","count":0,"status":"cooled","last_activity":"2025-10-10"},
+        {"id":"benefits_all_in_data_specialist","title":"Benefits All In - Data Specialist","count":0,"status":"cooled","last_activity":"2025-10-10"},
+        {"id":"amend_consulting_bi_consultant","title":"AMEND Consulting - BI Consultant","count":1,"status":"completed","last_activity":"2025-10-20"},
+        {"id":"innovis_product_data_analyst","title":"Innovis - Product Data Analyst","count":0,"status":"hot","last_activity":"2025-10-20"},
+        {"id":"empire_marketing_strategies_incorporated_category_insights_manager","title":"Empire Marketing Strategies Incorporated - Category Insights Manager","count":1,"status":"completed","last_activity":"2025-10-13"},
+        {"id":"saxon_global_data_reporting_specialist","title":"Saxon Global - Data Reporting Specialist","count":1,"status":"completed","last_activity":"2025-10-17"},
+        {"id":"callibrity_associate_business_analyst","title":"Callibrity - Associate Business Analyst","count":0,"status":"cooled","last_activity":"2025-10-14"},
+        {"id":"fifth_third_bank_consumer_lending_data_analyst","title":"Fifth Third Bank - Consumer Lending Data Analyst","count":0,"status":"hot","last_activity":"2025-10-20"},
+        {"id":"gravity_index_metric_capstone_project","title":"Gravity Index Metric - Capstone Project","count":0,"status":"sprout","last_activity":"2025-10-14"}
+      ]
+    },
+    "gravity_index_metric": {
+      "id": "gravity_index_metric",
+      "title": "Gravity Index Metric (Capstone)",
+      "steps_total": 1,
+      "steps_completed": [],
+      "percent_complete": 0.0,
+      "last_activity": "2025-10-14",
+      "notes": "Capstone project development steps.",
+      "steps": [
+        {"id":"capstone","title":"Capstone Project","count":0,"status":"developing","last_activity":"2025-10-14"}
+      ]
+    }
+  },
+  "orphans": []
+}
