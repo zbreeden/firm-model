@@ -1,0 +1,31 @@
+{
+  "id": "20251022T210455Z-workflow_update",
+  "ts_utc": "2025-10-22T21:04:55Z",
+  "module": "Firm Model",
+  "repo": "firm-model",
+  "title": "New Workflow Added",
+  "summary": "The Firm has added step_id: economic_spatial_modeling to help manage firm_id: exploratory_data_analysis.",
+  "rating": "high",
+  "origin": {
+    "name": "Firm Model",
+    "url": "https://zbreeden.github.io/firm-model/",
+    "emoji": "🏢"
+  },
+  "status": "sprout",
+  "links": {
+    "readme": "https://github.com/zbreeden/firm-model#readme",
+    "page": "https://zbreeden.github.io/firm-model/"
+  },
+  "payload": {
+    "orbit": "🧩",
+      "status": "🌿",
+      "module_key": "firm_model",
+      "notes": "USER SKILLS - Exploratory Data Analysis, Economic Spatial Modeling, Data Architecture",
+      "broadcast_key": "weekly_update",
+    "tags": [
+      "workflows",
+      "economic_spatial_modeling",
+      "exploratory_data_analysis"
+    ]
+  }
+}
