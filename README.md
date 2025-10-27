@@ -30,6 +30,53 @@ This module produces a `signals/latest.json` file conforming to the constellatio
 - **The Develper**: Feeds the constellation data for healthy modelling.
 
 ---
+---
+
+## Promotional Story — The Firm
+
+**Founder:** Zachry Breeden  
+**Mission:** To turn data into direction — where insight meets impact.
+
+### About
+
+FourTwenty Analytics was built on a simple idea: smart data should lead to smarter decisions.  
+Rooted in descriptive and diagnostic analytics, the work began by asking better questions — not just “what happened,” but “why did it happen, and what should we do next?”
+
+That foundation expanded into predictive and prescriptive analytics, focusing on clarity, communication, and measurable outcomes. Each project aims to bridge insight and action, shaping decisions that drive meaningful change.
+
+### Approach
+
+Every engagement begins with a question.  
+From there: identify the right data, understand its lineage, clean and normalize it, explore patterns, visualize findings, and narrate insights that tie directly to decisions.
+
+Technical execution supports this storytelling:
+- **Python** for wrangling and analysis  
+- **Power BI / Tableau** for visualization  
+- **Excel / SQL** for storage and manipulation  
+- **AWS** for architecture, flow, and scalability  
+
+Ambiguity is handled through framing and analogy — turning uncertainty into storylines people can reason through.  
+Data quality comes through documentation, peer review, governance, and security.  
+Workflow is prioritized by impact, focusing energy on what moves the needle.  
+Feedback is treated as signal, not noise — analyzed for context and pattern.
+
+### Collaboration & Storytelling
+
+Empathy and alignment sit at the center of stakeholder collaboration.  
+Understanding goals, language, and perspective builds trust.  
+Zach’s background in creative writing brings a natural voice to data storytelling — translating analysis into narratives people can see themselves in.
+
+### Impacts & Outcomes
+
+- Led conversion optimization projects using experimental data to identify key behavioral trends.  
+- Streamlined data collection, reducing analysis costs by up to **10%** for platinum clients and strengthening long-term loyalty.  
+- Monitored and maintained KPI reporting pipelines for **15–20 clients**, automating data collection and validation to improve reporting accuracy and turnaround time.  
+- Reduced analytical operational costs by optimizing ETL and reporting workflows, saving up to **three hours per cycle**.  
+- Scaled improvements firmwide and was later asked to **lead the implementation**.
+
+### Closing
+
+FourTwenty Analytics exists at the intersection of clarity and creativity — where clean data, sound methodology, and human understanding turn complexity into confident decisions.
 
 ## 🛠 Recent changes (2025-10-22)
 
